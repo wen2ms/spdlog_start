@@ -1,0 +1,5 @@
+[2025-07-23 00:08:57.775] [multilogger] [info] Hello, info!
+[2025-07-23 00:08:57.776] [multilogger] [error] An error!
+[2025-07-23 00:08:57.776] [multilogger] [debug] Debugging
+[2025-07-23 00:08:57.776] [multilogger] [info] Info message
+[2025-07-23 00:08:57.776] [multilogger] [warning] warning
